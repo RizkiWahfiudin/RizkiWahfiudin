@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @RizkiWahfiudin
 - 🎓 Currently I study at the Adhi Tama Institute of Technology Surabaya
 - ✉️ Contact me at wahfiudinroot@pm.me
-- 🌐 Visit my website on https://rizkiwahfiudin.my.id or https://rizkiwahfiudin.github.io
+- 🌐 Visit my website on https://rizkiwahfiudin.github.io
